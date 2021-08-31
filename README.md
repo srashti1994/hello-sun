@@ -1,2 +1,2 @@
 # hello-sun
-just another respository
+hello My name is srashti.
